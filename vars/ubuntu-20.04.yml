@@ -30,7 +30,7 @@ _apt_repository:
     repo: "deb http://download.opensuse.org/repositories/devel:/kubic:/libcontainers:/stable:/cri-o:/1.25/xUbuntu_20.04/ /"
     state: "present"
   - filename: "upstream-crio1.26"
-    repo: "deb http://download.opensuse.org/repositories/devel:/kubic:/libcontainers:/stable:/cri-o:/1.26/xUbuntu_20.04/ /"
+    repo: "deb http://download.opensuse.org/repositories/devel:/kubic:/libcontainers:/stable:/cri-o:/1.26:/xUbuntu_20.04/ /"
     state: "present"
 
 _apt:
